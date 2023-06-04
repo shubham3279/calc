@@ -19,7 +19,7 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](ss.png)
 
 
 
